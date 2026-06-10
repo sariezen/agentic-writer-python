@@ -9,7 +9,8 @@ An AI-powered creative writing assistant built with Python.
 ```bash
    pip install google-genai matplotlib pandas anyio httpx google-auth
 
-Set your Gemini API Key:
+
+#Set your Gemini API Key:
 Make sure to set your Gemini API key as an environment variable before running the project.
 
 Run the Project:
