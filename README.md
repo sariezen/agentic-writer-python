@@ -7,8 +7,7 @@ An AI-powered creative writing assistant built with Python.
 ### 1. Install Dependencies
 Run this command in your terminal to install the required libraries:
 
-```bash
-pip install google-genai matplotlib pandas anyio httpx google-auth
+```pip install google-genai matplotlib pandas anyio httpx google-auth```
 
 ### 2. Set Your Gemini API Key
 Make sure to set your Gemini API key as an environment variable before running the project.
